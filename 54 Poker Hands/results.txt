@@ -1,0 +1,1000 @@
+(2) {'3S', 'AC', '7D', '2S', '5D'} won by high card A
+(1) {'AD', 'AC', '5D', '5C', '9C'} won by 2 pair
+(1) {'3H', 'KC', 'JS', '6S', '7H'} won by high card K
+(2) {'KS', '4D', 'JS', 'JC', '9H'} won by a higher pair K
+(2) {'AD', '4C', 'AS', 'KH', '4S'} won by 2 pair
+(1) {'5H', 'KS', '7D', '9H', '9C'} won by a higher pair A
+(1) {'3H', '5C', '2H', '4H', '6H'} won by straight
+(2) {'3H', '7S', '4C', 'KS', 'KC'} won by a higher pair K
+(2) {'4C', 'KH', 'QS', 'AC', 'QC'} won by pair
+(1) {'5H', '2D', '2H', 'JC', '6S'} won by pair
+(2) {'3S', 'AS', 'AC', 'TS', '6D'} won by pair
+(1) {'TC', '5S', '2H', '4S', '5C'} won by pair
+(1) {'AS', 'QD', 'JS', '6H', '2C'} won by high card A
+(2) {'3S', 'KC', '4H', '6S', '6D'} won by pair
+(2) {'JD', 'QH', '4S', '9S', '4H'} won by pair
+(2) {'AC', 'QD', '8H', '5C', 'TS'} won by high card A
+(2) {'AD', 'AS', 'QS', '2H', '8H'} won by a higher pair A
+(1) {'6C', '8S', '4C', '8D', '6S'} won by 2 pair
+(2) {'9D', 'AC', '9S', '9C', '3D'} won by three
+(1) {'JH', '3C', 'QS', '2S', '4H'} won by high card Q
+(2) {'AS', '7D', 'JD', '8C', '7H'} won by pair
+(1) {'9D', 'TD', 'JH', 'AS', '6H'} won by high card A
+(2) {'3C', 'AC', '5C', 'TS', '3D'} won by pair
+(2) {'3S', '6C', 'TS', 'AD', '8C'} won by high card A
+(2) {'2H', 'JC', '3D'} won by high card J and pair 5
+(2) {'JD', '5D', 'JS', '8H', '7H'} won by pair
+(1) {'KH', 'QS', 'AS', 'JS', '4H'} won by high card A
+(2) {'KD', 'AS', '4D', '9S', 'JC'} won by high card A
+(1) {'5H', 'KH', '4D', '5D', 'QD'} won by pair
+(1) {'9D', '5C', '9H', '6H', '2C'} won by pair
+(1) {'JH', 'AS', '7D', 'QD', '6D'} won by high card A
+(1) {'3H', 'AD', 'KH', 'QD', '8C'} won by high card A
+(1) {'9D', '8S', '4D', '9S', 'AH'} won by pair
+(2) {'8S', 'AD', '9H', 'AH', 'TS'} won by pair
+(1) {'KD', '5D', '9H', '5C', '7H'} won by pair
+(2) {'TC', '9D', 'QH', '9H', 'TS'} won by 2 pair
+(2) {'AD', 'KH', 'QC', 'JS', '6D'} won by high card A
+(1) {'9D', '3H', 'JD', '9S', '5C'} won by pair
+(2) {'9D', 'AD', 'KH', '7D', '9S'} won by pair
+(1) {'7C', 'KC', 'JS', 'JC', '9C'} won by a higher pair A
+(2) {'8S', '8H', 'JC', '9H', '9C'} won by 2 pair
+(2) {'9D', 'AD', '4H', '9H', '6D'} won by pair
+(1) {'3S', 'KH', 'QS', 'KS', '7H'} won by a higher pair A
+(1) {'TC', 'TH', '2H', '6H', '2C'} won by 2 pair
+(2) {'4C', 'KH', 'TH', '4D', '6D'} won by pair
+(2) {'6C', '2D', '3C', '9H', '6D'} won by pair
+(2) {'3H', '4C', '9H', '9C', '7H'} won by pair
+(1) {'JH', '5H', '7S', 'TD', 'TS'} won by a higher pair A
+(2) {'9D', '8S', '5H', '2S', '8D'} won by pair
+(1) {'KH', 'KS', '2S', '4H', '9S'} won by pair
+(2) {'AS', 'AC', '2S', '5D', '8D'} won by a higher pair A
+(2) {'3C', '5S', 'JS', '9S', '9C'} won by pair
+(1) {'3S', 'AD', '3C', 'KS', '3D'} won by three
+(2) {'6C', 'QS', 'KC', 'QD', '3D'} won by pair
+(2) {'TC', '3C', 'QC', 'JS', 'QH'} won by a higher pair Q
+(2) {'8S', 'JH', '9S', '8C', '9C'} won by 2 pair
+(1) {'8S', '2H', 'QC', '4D', 'QH'} won by pair
+(2) {'3H', '7S', '3C', 'AS', '6S'} won by pair
+(2) {'AC', '8H', 'JC', 'AH', 'TS'} won by a higher pair A
+(2) {'3H', '3C', 'JC', '5C', '7H'} won by pair
+(1) {'3S', 'AD', '4C', '3C', '3D'} won by three
+(2) {'AD', 'JD', '8H', 'AH', 'TS'} won by pair
+(2) {'3S', 'TC', 'JD', '4D', '3D'} won by pair
+(2) {'TD', 'KC', '7D', '6S', 'TS'} won by pair
+(1) {'3S', 'TC', 'JH', '8H', '8D'} won by pair
+(1) {'9D', 'TH', 'KC', 'QH', '2C'} won by high card K
+(1) {'3C', 'KH', 'QS', 'QD', '8H'} won by a higher pair A
+(2) {'KD', 'TC', 'JD', '8C', '9C'} won by high card K
+(1) {'TC', '8C', 'QC', 'JD', 'TS'} won by pair
+(2) {'AS', 'KH', '9H', '6S', '6H'} won by pair
+(1) {'JH', '2D', '2H', '4D', 'AH'} won by pair
+(1) {'KD', 'JH', 'QD', '9S', '8C'} won by high card K
+(2) {'7C', '7S', 'KC', '6H', '9C'} won by pair
+(2) {'8S', 'KS', 'QC', 'JS', '4H'} won by high card K
+(2) {'7C', 'KD', '6C', '2D', '7D'} won by pair
+(1) {'JS', '4H', 'JC', '6S', '6H'} won by 2 pair
+(2) {'KH', 'KC', '5D', '5C', '3D'} won by 2 pair
+(2) {'KS', 'JD', 'QH', '6S', '6D'} won by pair
+(1) {'8S', '7S', '2S', 'QH', '8C'} won by pair
+(1) {'6C', '8S', '3C', '6H', '2C'} won by a higher pair 10
+(2) {'QC', 'QD', 'JS', '7H', '6D'} won by pair
+(2) {'KH', '2H', '8H', '4H', '6H'} won by flush
+(1) {'KD', '2D', 'KS', '5D', 'JS'} won by pair
+(2) {'3S', '2D', '7S', 'JD', 'AH'} won by high card A
+(1) {'8S', 'AS', 'QH', 'JC', 'AH'} won by pair
+(1) {'7C', 'TD', '5H', '5D', 'JC'} won by pair
+(1) {'AC', '7D', 'KC', '2H', 'AH'} won by pair
+(1) {'8S', '5S', '9S', '6H', '9C'} won by pair
+(2) {'7C', '5S', 'AC', '5D', '7H'} won by 2 pair
+(2) {'TS', '7D', '2H', '2C', '8C'} won by pair
+(1) {'KD', 'KC', '7D', '6S', '3D'} won by a higher pair K
+(2) {'7C', 'KD', '3H', '5S', 'KC'} won by a higher pair K
+(2) {'7C', 'TD', '4C', 'KC', '7H'} won by a higher pair K
+(2) {'TD', 'KS', '8H', '9S', '8C'} won by pair
+(2) {'KS', 'KC', '2C', '9S', 'AH'} won by pair
+(1) {'TD', '4D', '8H', '4S', '9C'} won by pair
+(2) {'KD', '9D', '5C', '2C', '9C'} won by a higher pair K
+(2) {'QS', 'QD', '4S', '8D', 'JC'} won by a higher pair A
+(2) {'9D', 'AS', '5D', 'JS', 'JC'} won by pair
+(2) {'6C', 'QC', 'QD', '9S', 'JC'} won by a higher pair Q
+(1) {'JH', 'QS', 'JC', '6S', '2C'} won by pair
+(2) {'KC', '2H', '2S', 'JS', '2C'} won by three
+(2) {'JH', 'KS', 'AC', 'JS', '7H'} won by a higher pair A
+(2) {'9D', 'AD', 'AS', '7D', '5C'} won by a higher pair A
+(2) {'3S', '3H', '4C', 'AC', '8H'} won by pair
+(1) {'KD', '5H', 'JD', '8H', 'JC'} won by pair
+(2) {'8S', '5H', '5S', 'JD', '6D'} won by pair
+(2) {'TH', '5D', '5C', '8C', '9C'} won by pair
+(2) {'7S', 'AS', 'KS', '6S', '2C'} won by high card A
+(1) {'TC', 'QS', 'QD', 'JC', '8C'} won by pair
+(2) {'KS', '2H', '4D', '8D', 'JC'} won by high card K
+(1) {'KD', 'KH', '5S', '9H', '9C'} won by 2 pair
+(1) {'TC', '5H', 'AS', '4D', '8C'} won by high card A
+(2) {'6C', '5H', '5S', '4S', '6D'} won by 2 pair
+(2) {'3C', 'JS', '9S', '9H', '6D'} won by pair
+(2) {'7C', '5D', '9S', 'AH', '9C'} won by pair
+(2) {'9D', 'AS', 'KS', 'QD', '9H'} won by pair
+(2) {'8S', 'AD', 'AS', '5S', 'AH'} won by three
+(2) {'3H', '5H', 'KS', 'AC', 'JC'} won by high card A
+(2) {'5H', '5S', 'QH', '6H', '6D'} won by 2 pair
+(1) {'7D', 'KC', '2H', 'QH', 'AH'} won by high card A
+(1) {'6C', '3H', '8S', 'KS', '6D'} won by a higher pair K
+(1) {'9D', '4D', '4S', '9H', '6S'} won by 2 pair
+(2) {'KD', 'JH', '3C', 'QD', '8C'} won by high card K
+(2) {'AD', '3C', 'AS', '6S', 'AH'} won by three
+(2) {'8S', '5D', '5C', 'AH', '6D'} won by pair
+(1) {'7C', 'AD', 'TD', 'JC', 'TS'} won by pair
+(1) {'5S', '4D', '5D', '8H', '4H'} won by 2 pair
+(2) {'KD', '8S', '7D', '8H', '5C'} won by pair
+(1) {'TD', 'AS', 'AC', '8C', '3D'} won by pair
+(2) {'KD', 'TC', 'AS', 'KC', 'JD'} won by pair
+(2) {'AD', '2D', 'AS', '2H', '3D'} won by 2 pair
+(2) {'KC', '9S', '9H', '6H', '2C'} won by pair
+(2) {'TC', '3H', '8H', '8D', '9H'} won by pair
+(1) {'KD', 'TD', '2H', '6H', '2C'} won by pair
+(1) {'7C', 'KD', '7S', '3C', 'AS'} won by pair
+(2) {'AD', 'TD', 'QC', '9S', 'TS'} won by pair
+(1) {'7C', 'TC', '8C', '2H', 'TS'} won by pair
+(2) {'3H', 'TD', 'TH', '8H', '6D'} won by pair
+(1) {'9D', 'TD', 'QC', '5D', '9H'} won by a higher pair K
+(2) {'TC', 'TH', 'KC', '7D', '8H'} won by pair
+(2) {'5H', 'KH', 'KC', '6H', 'AH'} won by pair
+(2) {'6C', 'JD', '8D', '6H', '8C'} won by 2 pair
+(2) {'AD', '2S', '4H', 'JC', '9H'} won by high card A
+(1) {'KD', 'TD', '7D', 'JS', '6S'} won by high card K
+(2) {'5S', 'QC', '4H', '9S', '9C'} won by pair
+(1) {'KD', 'JS', '9S', '9H', '2C'} won by pair
+(1) {'AD', '5H', 'AS', '2H', '5D'} won by 2 pair
+(2) {'KD', 'AD', '2C', 'TS', '9C'} won by high card A
+(1) {'JH', '5H', 'QD', 'JS', '7H'} won by pair
+(2) {'7C', 'AD', '2D', 'AC', '4H'} won by a higher pair A
+(2) {'AH', 'JD', '4H', 'JC', '2C'} won by pair
+(2) {'AS', 'AC', '5D', '2C', 'AH'} won by three
+(2) {'4C', '7D', '4H', 'AH', '7H'} won by 2 pair
+(2) {'5H', '3C', '4H', '7H', '3D'} won by pair
+(2) {'3S', '3H', '2H', '6S', '3D'} won by three
+(2) {'TC', '6C', 'JS', '6S', '9C'} won by a higher pair A
+(1) {'KD', 'AC', 'QD', 'QH', '6D'} won by pair
+(2) {'3H', '5H', 'QC', '4S', '9S'} won by high card Q
+(2) {'3S', '8S', '5H', '4D', '4S'} won by pair
+(1) {'KD', 'TC', '7S', '4S', '9S'} won by high card K
+(2) {'KD', 'KS', '2H', '4D', '6H'} won by a higher pair K
+(2) {'6C', '8S', '2D', '8H', '4S'} won by a higher pair K
+(1) {'6C', 'TC', 'QS', 'QD', '6H'} won by 2 pair
+(2) {'TC', '5D', 'JS', '8H', 'TS'} won by a higher pair J
+(2) {'5H', 'AS', '8H', '6S', '2C'} won by high card A
+(1) {'9D', 'JS', '6S', '5C', '9C'} won by pair
+(1) {'7C', '6C', '8S', '4D', '8D'} won by pair
+(2) {'7S', '9S', '6H', '2C', '9C'} won by pair
+(2) {'KH', '7D', '9S', '9H', '6H'} won by pair
+(2) {'3S', 'KD', 'AC', '2H', '5C'} won by high card A
+(1) {'7C', '4C', 'AS', 'JS', '9S'} won by high card A
+(2) {'AD', 'KS', '5S', '4S', '9S'} won by high card A
+(1) {'4C', 'AS', '7D', '2C', '3D'} won by high card A
+(1) {'8S', '5H', 'AC', '2S', '3D'} won by high card A
+(1) {'7S', 'TH', 'QD', 'TS', '3D'} won by pair
+(1) {'TC', 'AD', 'QS', 'QD', '9C'} won by a higher pair A
+(2) {'8S', '2D', 'KC', 'JD', '8D'} won by pair
+(2) {'7S', 'KH', '7D', '8D', '9C'} won by pair
+(2) {'KD', 'QD', '2S', '4H', 'TS'} won by high card K
+(2) {'3S', 'TC', '3H', '8S', 'KH'} won by pair
+(2) {'KD', 'JH', 'JD', '5C', 'AH'} won by pair
+(1) {'6C', '5H', 'JH', '2H', '5C'} won by pair
+(2) {'TC', 'KH', 'QD', '8D', '9C'} won by high card K
+(2) {'7C', '5H', 'AS', 'JC', '9H'} won by high card A
+(2) {'6C', '4C', 'KC', '6S', '5C'} won by pair
+(2) {'7C', '4C', 'AS', '9S', '9C'} won by pair
+(2) {'KD', 'JH', 'QS', 'QH', '2C'} won by a higher pair A
+(1) {'9D', 'AC', '2H', 'AH', '8C'} won by pair
+(1) {'QS', '5S', 'QC', 'QD', '9H'} won by three
+(1) {'3S', '6C', '3H', '5H', '6S'} won by 2 pair
+(2) {'3S', '6C', 'TC', 'KC', '3D'} won by pair
+(2) {'3S', 'TC', '8S', '3H', '5H'} won by pair
+(2) {'3C', 'AC', 'QC', '8D', 'AH'} won by a higher pair A
+(2) {'JH', '2D', 'AS', 'QD', '8C'} won by high card A
+(2) {'JH', '4H', 'JC', '9H', '6S'} won by a higher pair J
+(1) {'AD', '5S', '9S', '6H', 'AH'} won by pair
+(2) {'AD', '5S', 'KC', '4S', '9C'} won by high card A
+(1) {'9D', 'TC', '4C', '4D', '6H'} won by pair
+(2) {'8S', 'AD', 'QS', 'TH', 'JD'} won by high card A
+(1) {'3S', '7S', 'AS', '4S', 'AH'} won by pair
+(2) {'9D', '5H', '5C', 'TS', '9C'} won by 2 pair
+(2) {'KH', '5D', 'JS', '6H', '2C'} won by high card K
+(1) {'2D', 'TH', 'JD', 'JS', 'JC'} won by three
+(1) {'9D', '7S', 'KH', '5S', '5D'} won by pair
+(2) {'7C', 'AD', 'AS', 'AH', '9C'} won by three
+(2) {'3C', 'AS', 'QC', '4S', 'AH'} won by a higher pair A
+(2) {'7C', '3H', 'JH', '3C', 'KH'} won by pair
+(2) {'4C', 'KC', '2S', '4D', '7H'} won by pair
+(2) {'TC', '6C', 'AD', 'JC', '6S'} won by a higher pair A
+(2) {'8S', '3C', 'AC', '8H', 'TS'} won by pair
+(1) {'3C', 'QS', 'TH', 'QD', 'TS'} won by 2 pair
+(2) {'AD', '7S', 'AC', '7D', 'TS'} won by 2 pair
+(1) {'7C', '4S', 'AH', '7H', '6D'} won by pair
+(2) {'QS', '2H', '5C', '2C', 'TS'} won by pair
+(2) {'3C', 'JS', 'JC', '6S', 'AH'} won by pair
+(2) {'9D', 'TD', 'KH', 'JD', 'JC'} won by pair
+(2) {'5H', '7S', 'AC', '8H', '5C'} won by pair
+(1) {'2D', 'AC', 'QC', '2S', 'QD'} won by 2 pair
+(2) {'3S', '8S', 'AS', '6H', '8C'} won by pair
+(2) {'3H', 'QS', '5S', 'QH', 'JC'} won by a higher pair K
+(2) {'7C', '6C', 'AC', '5C', 'AH'} won by pair
+(1) {'TD', 'JD', '8D', '9H', 'AH'} won by high card A
+(2) {'TD', '5S', 'KS', '5D', '4S'} won by pair
+(2) {'7C', 'AD', '2D', '4C', '5C'} won by high card A
+(2) {'6C', 'TH', '2S', '5D', '6S'} won by pair
+(2) {'7C', 'AS', 'QC', '4H', '3D'} won by high card A
+(2) {'QS', 'TH', '2S', 'QD', '5C'} won by pair
+(2) {'7C', 'KC', '7D', '6S', '5C'} won by pair
+(1) {'KD', 'KH', '4D', 'AH', '7H'} won by pair
+(2) {'6C', '5S', '4D', '4H', '8C'} won by pair
+(2) {'3S', '9D', 'AD', 'AS', '8D'} won by a higher pair A
+(1) {'TC', '5S', '5D', '6H', '6D'} won by 2 pair
+(2) {'7C', 'AD', '2D', 'KS', '7D'} won by pair
+(1) {'AC', 'KC', 'QD', 'QH', 'JC'} won by a higher pair A
+(1) {'8S', '5H', 'JS', 'AH', '3D'} won by high card A
+(1) {'AS', 'QS', '7D', '4S', '9H'} won by high card A
+(2) {'6C', '8S', 'QH', '9H', '3D'} won by high card Q
+(2) {'KD', 'KS', 'JD', '5C', '9C'} won by a higher pair K
+(2) {'6C', '8S', 'TC', 'KC', '5C'} won by high card K
+(1) {'KS', '5S', 'AC', '4S', '3D'} won by high card A
+(1) {'7S', '8H', '9S', '6S', 'TS'} won by straight
+(2) {'JH', '7S', '7D', '5D', '3D'} won by pair
+(1) {'9D', '8S', '7S', 'AC', 'QC'} won by high card A
+(2) {'7C', '5H', 'KS', 'QC', 'AH'} won by high card A
+(2) {'TC', 'AS', 'KC', '8H', '6H'} won by high card A
+(1) {'7C', 'TC', 'TD', 'KH', '6S'} won by pair
+(1) {'TC', '3H', '4C', 'TH', '4H'} won by 2 pair
+(2) {'8S', 'KC', '4D', 'QH', '3D'} won by high card K
+(1) {'3S', '3H', 'AD', '6S', '7H'} won by pair
+(2) {'6C', '2D', 'QS', 'QD', '9C'} won by pair
+(1) {'5H', 'KC', '4D', 'QH', '4S'} won by pair
+(2) {'KH', '5S', 'KC', 'JC', '9H'} won by pair
+(2) {'7S', 'KS', 'KC', 'QD', '9C'} won by pair
+(1) {'6C', 'TH', 'QC', '6S', 'TS'} won by 2 pair
+(2) {'9D', 'QD', '9S', 'JC', '6D'} won by a higher pair K
+(2) {'6C', 'KH', 'KS', '6S', '6H'} won by full house
+(2) {'KH', 'AS', 'QD', '6S', '6H'} won by pair
+(2) {'5H', 'KH', 'TH', '2S', '5C'} won by pair
+(2) {'2D', 'KH', 'JS', '4S', '8C'} won by high card K
+(2) {'8S', 'JH', 'TH', '9H', '7H'} won by straight
+(2) {'8S', 'AC', '8H', '4S', '8D'} won by three
+(2) {'2D', 'QS', 'JD', 'JC', '5C'} won by pair
+(2) {'3C', 'QS', 'KS', '2H', 'AH'} won by high card A
+(1) {'7C', 'JH', '7D', '4S', '9C'} won by pair
+(2) {'KH', 'QS', 'QH', '9S', '5C'} won by pair
+(1) {'JH', 'QH', 'JC', '6S', '9C'} won by pair
+(2) {'3S', 'QS', '4S', '6S', '3D'} won by pair
+(2) {'7S', 'TH', 'JC', 'AH', '6D'} won by high card A
+(2) {'3H', 'AD', '4D', '6H', 'TS'} won by high card A
+(1) {'3H', '2D', '7D', 'JD', '3D'} won by pair
+(1) {'7S', '4H', '9H', '2C', '9C'} won by a higher pair K
+(2) {'AD', 'KS', 'KC', '9S', '8D'} won by pair
+(1) {'5H', 'QS', 'JD', 'QH', 'TS'} won by pair
+(2) {'TH', 'QC', 'QD', 'AH', '7H'} won by pair
+(2) {'9D', 'AS', 'JS', '8H', '9H'} won by a higher pair A
+(2) {'KD', '5H', '5S', '9S', 'JC'} won by pair
+(2) {'7C', '9D', 'AD', 'TD', 'AC'} won by pair
+(1) {'8D', '4S', '4H', '6S', '9C'} won by pair
+(1) {'5H', '5S', 'QH', '4S', 'JC'} won by a higher pair A
+(1) {'AD', '5H', 'AS', 'QD', '8C'} won by pair
+(2) {'QS', '2H', '4D', '6H', '2C'} won by pair
+(2) {'9D', 'AD', 'AC', 'QD', '7H'} won by pair
+(2) {'7S', 'KC', 'QH', '8D', '8C'} won by pair
+(2) {'AD', '2D', 'QS', '2H', '6S'} won by pair
+(1) {'2D', 'KH', '7D', 'JS', 'JC'} won by a higher pair A
+(1) {'3S', 'AD', 'TD', '4S', 'TS'} won by pair
+(2) {'9D', 'KH', 'AS', 'AC', '3D'} won by a higher pair A
+(1) {'KD', 'KH', '8H', '4S', '6S'} won by a higher pair K
+(1) {'JH', '5H', 'AS', 'KS', 'AH'} won by pair
+(1) {'KD', 'KS', '7D', '5D', '6D'} won by a higher pair K
+(2) {'3H', '4D', '4H', '2C', 'TS'} won by pair
+(1) {'7C', '9D', 'KH', 'KS', '6H'} won by a higher pair K
+(2) {'3H', 'TD', 'TH', '8H', '4H'} won by pair
+(2) {'8S', 'KS', 'AC', '4H', '6H'} won by high card A
+(2) {'6C', 'KH', 'AC', 'TS', '6D'} won by pair
+(1) {'7C', 'JH', 'QS', '7D', 'QH'} won by 2 pair
+(2) {'KS', '4H', '2C', '9C', '7H'} won by high card K
+(2) {'3S', '3H', 'KC', 'QC', 'QD'} won by 2 pair
+(2) {'9D', '5S', '7D', 'TS', '7H'} won by pair
+(2) {'6C', 'TH', 'QD', '2C', 'TS'} won by a higher pair K
+(2) {'8S', '5H', '2H', 'QH', '9C'} won by high card Q
+(2) {'7C', '3H', 'KH', '5S', '2H'} won by high card K
+(2) {'6C', '8S', '3C', '2S', '6S'} won by a higher pair J
+(1) {'2D', 'KH', '4D', '8H', '4H'} won by pair
+(2) {'KC', 'JD', '8D', '6H', '9C'} won by high card K
+(2) {'8S', '5H', 'TD', 'TH', '8H'} won by 2 pair
+(1) {'TD', '7S', 'QS', '7D', 'TS'} won by 2 pair
+(2) {'TD', 'AS', 'AC', '4D', '2S'} won by pair
+(1) {'6C', '4C', 'KS', '4S', 'AH'} won by pair
+(2) {'KD', 'AC', '4D', '5D', '4S'} won by pair
+(1) {'2D', 'KH', 'JS', '2C', 'TS'} won by pair
+(2) {'7S', 'KH', 'AC', '9S', '6H'} won by high card A
+(2) {'5H', '2H', '2S', '5D', '4H'} won by 2 pair
+(1) {'5H', '2S', 'QD', 'JC', '2C'} won by pair
+(2) {'9D', 'JH', '7D', '9S', '2C'} won by pair
+(2) {'7C', '3H', 'TD', 'TH', 'TS'} won by three
+(2) {'9D', '7D', '8D', 'AH', '9C'} won by pair
+(1) {'QC', 'QD', 'JS', '5C', '6D'} won by pair
+(2) {'8S', 'KC', '6H', 'AH', '6D'} won by pair
+(1) {'7C', '7S', '4C', '5S', '3D'} won by a higher pair J
+(1) {'3S', '7C', '5H', '3C', 'QH'} won by pair
+(1) {'3S', '5H', '7S', 'QD', '7H'} won by pair
+(1) {'KD', '4C', 'KH', '3C', '2S'} won by pair
+(2) {'5H', '7S', '5S', 'QD', '4D'} won by pair
+(2) {'9D', 'KD', '3C', 'KS', '6H'} won by pair
+(1) {'7S', '4C', 'QS', '4D', 'TS'} won by pair
+(2) {'9D', '8S', 'QS', '9H', '6H'} won by pair
+(2) {'6C', '2D', 'TH', 'QH', '6S'} won by pair
+(1) {'4C', 'AS', '5D', 'JS', '4H'} won by pair
+(2) {'AD', '3C', 'AS', 'QS', '6H'} won by pair
+(2) {'7C', 'AS', 'KH', 'JD', '9H'} won by high card A
+(1) {'6C', '3H', '7S', '4D', '3D'} won by pair
+(2) {'TH', '8D', '9H', '9S', '9C'} won by three
+(2) {'3S', '2H', 'QD', '5D', '6S'} won by high card Q
+(1) {'4C', 'QS', '4D', 'JD', '5C'} won by pair
+(2) {'4C', 'KS', 'JD', '4H', '6D'} won by pair
+(2) {'5H', 'JH', '2H', '2S', 'JS'} won by 2 pair
+(1) {'5S', 'TH', '2H', '6S', 'TS'} won by a higher pair K
+(2) {'JH', 'TD', '7D', 'JS', '6D'} won by pair
+(2) {'JH', '7S', '2D', 'TH', 'JC'} won by a higher pair A
+(2) {'KD', 'TC', 'JC', 'AH', '9C'} won by high card A
+(2) {'KH', 'TH', 'QH', '9S', 'TS'} won by pair
+(2) {'TC', '3H', 'TH', 'KC', '9C'} won by pair
+(1) {'AS', '7D', '4D', '9H', '3D'} won by high card A
+(2) {'8S', '2H', 'QD', '8D', 'TS'} won by pair
+(2) {'3S', 'AC', 'QC', '2S', '6S'} won by high card A
+(1) {'AD', 'AS', 'QS', '8H', 'JC'} won by a higher pair A
+(1) {'TD', '2S', '9S', 'TS', '3D'} won by pair
+(2) {'AD', 'JH', 'KH', 'TH', 'QD'} won by straight
+(2) {'7C', 'JH', 'QS', '8D', 'JC'} won by pair
+(2) {'3S', 'KS', '2S', 'QD', 'QH'} won by pair
+(2) {'9D', 'TD', 'JD', 'QD', 'JS'} won by pair
+(1) {'8S', '5H', 'KH', 'KS', '8H'} won by 2 pair
+(2) {'6C', '8S', '5H', '7D', '9C'} won by straight
+(2) {'3C', 'QS', '5S', 'KC', 'QH'} won by pair
+(2) {'JH', 'AS', 'JD', '6H', '7H'} won by a higher pair A
+(1) {'9D', 'KC', '8H', '9H', '5C'} won by a higher pair A
+(2) {'7C', '5H', '5S', '6S', 'TS'} won by pair
+(1) {'3S', 'TD', 'KC', '9S', '6D'} won by high card K
+(1) {'KD', '9D', '5H', '8D', 'TS'} won by high card K
+(2) {'TD', 'AS', 'QD', '9S', '9H'} won by pair
+(2) {'TC', 'TD', '7D', 'QC', '9S'} won by a higher pair Q
+(2) {'9D', '8S', '7D', 'JS', '9C'} won by a higher pair K
+(1) {'6C', '3C', 'KC', '5D', '6D'} won by pair
+(2) {'AD', 'KH', 'TH', '8H', '9H'} won by high card A
+(1) {'AS', 'QC', '2S', 'JS', '5C'} won by high card A
+(1) {'3S', '2S', 'QD', '8H', '8D'} won by pair
+(1) {'8S', '3H', 'JD', 'JS', 'TS'} won by pair
+(2) {'7C', '7D', '4H', 'JC', 'AH'} won by pair
+(2) {'JH', 'KH', '5S', '9H', '2C'} won by high card K
+(2) {'4C', 'AC', 'QC', 'JD', 'QD'} won by pair
+(2) {'3S', '2D', 'AS', 'QS', 'KH'} won by high card A
+(2) {'TD', 'TH', '4D', 'QH', '9S'} won by a higher pair Q
+(1) {'3S', '4H', '6H', 'TS', '6D'} won by pair
+(2) {'KH', '5D', 'JS', '6S', '6H'} won by pair
+(2) {'KH', 'TH', 'QC', 'QD', 'AH'} won by pair
+(1) {'5H', 'KH', '9S', '6S', '2C'} won by high card K
+(2) {'7S', '4C', '2H', '4D', '7H'} won by 2 pair
+(2) {'7C', 'TC', '5H', '7S', 'TS'} won by 2 pair
+(1) {'4C', 'QC', '4S', '8D', 'TS'} won by pair
+(1) {'3H', 'QS', '5D', '5C', '8C'} won by pair
+(2) {'JH', '2D', 'KH', 'QD', 'JS'} won by a higher pair K
+(1) {'QC', 'JD', '5D', '9H', '6S'} won by high card Q
+(2) {'2D', '4H', '5C', '3D', '6D'} won by straight
+(2) {'3S', 'TD', 'AD', 'QD', '9C'} won by high card A
+(2) {'3C', 'AS', '7D', 'QD', '6D'} won by high card A
+(2) {'5S', 'QC', 'JS', '4S', '5C'} won by pair
+(2) {'JH', '5S', '7D', 'QD', 'JS'} won by pair
+(2) {'AD', '5D', 'QH', '7H', '3D'} won by high card A
+(2) {'7C', 'AD', '2D', 'KH', '5D'} won by high card A
+(2) {'TD', 'KH', '2S', '5C', 'AH'} won by high card A
+(2) {'7C', '6C', '2H', '2S', '9H'} won by pair
+(1) {'KD', 'QS', 'QC', 'JS', 'TS'} won by pair
+(2) {'3H', 'AD', '7S', '2H', '7D'} won by pair
+(2) {'7C', '2H', '7D', '2S', '9H'} won by 2 pair
+(2) {'6C', 'AD', '5H', 'AS', '8H'} won by pair
+(1) {'6C', '7D', '2S', '7H', '6D'} won by 2 pair
+(2) {'3S', 'KD', 'AD', 'KH', '4S'} won by a higher pair A
+(2) {'KD', '5H', 'KH', 'KS', 'TS'} won by three
+(2) {'AD', '7S', 'TD', 'KC', '7D'} won by a higher pair A
+(1) {'8S', '5S', 'JS', '8H', 'JC'} won by 2 pair
+(2) {'5H', 'KH', 'JS', 'QH', '8D'} won by high card K
+(1) {'AD', 'TD', 'KS', '2S', '3D'} won by high card A
+(2) {'TH', 'QD', 'QH', '9S', '5C'} won by pair
+(2) {'6C', 'KS', 'KC', 'JD', 'JC'} won by 2 pair
+(2) {'7S', '7D', 'QD', 'QH', 'TS'} won by 2 pair
+(2) {'6C', '9D', 'QS', '8H', '9S'} won by a higher pair Q
+(2) {'QS', 'TH', '4D', '6S', '6D'} won by pair
+(2) {'7C', 'TC', 'TD', '4C', '7D'} won by 2 pair
+(1) {'AS', '5S', '6S', 'AH', '7H'} won by pair
+(1) {'8S', 'QS', 'KS', '8D', 'AH'} won by pair
+(1) {'QS', '2H', '9S', '9H', '6H'} won by pair
+(2) {'7S', 'TH', 'AC', '9S', '9H'} won by pair
+(1) {'3H', 'KC', '4D', '6S', '7H'} won by high card K
+(2) {'9D', 'JH', '7S', '4H', '7H'} won by pair
+(2) {'2D', 'AS', '7D', '2S', '6D'} won by pair
+(2) {'AD', 'KH', 'TH', 'KC', '9C'} won by a higher pair A
+(1) {'TC', '9D', '4C', '9S', '2C'} won by pair
+(2) {'QC', '8D', '6S', '6H', '8C'} won by 2 pair
+(2) {'8S', '4C', '5S', 'QH', '8D'} won by pair
+(2) {'7C', '8S', '2D', '2H', '3D'} won by pair
+(1) {'6C', '8S', 'TH', '2H', '4H'} won by high card 10
+(1) {'7C', '4C', '5C', '2C', '9C'} won by flush
+(2) {'2H', '5D', '8D', '9S', '8C'} won by pair
+(1) {'KD', 'AD', 'AC', '2H', 'QC'} won by pair
+(2) {'3C', 'KH', 'QS', 'QD', '5D'} won by pair
+(2) {'3S', 'AD', 'AS', '5S', '7H'} won by pair
+(2) {'AS', 'QS', 'AC', '9S', '6D'} won by a higher pair A
+(2) {'6C', '9D', '8S', '8D', '6H'} won by 2 pair
+(2) {'3S', 'AS', 'KS', '8C', '6D'} won by high card A
+(1) {'TC', '3H', '8D', '6S', 'TS'} won by pair
+(1) {'8S', 'QC', '4S', '4H', '8C'} won by 2 pair
+(2) {'TC', 'AD', 'QC', '6S', 'TS'} won by pair
+(1) {'8S', 'TH', 'QC', 'QD', '4S'} won by pair
+(2) {'9D', '3C', '7D', 'QD', 'QH'} won by a higher pair Q
+(1) {'KD', '6C', '7S', 'KC', '9H'} won by pair
+(2) {'3H', '3C', 'TH', '7D', 'QC'} won by pair
+(2) {'3C', '4C', 'TH', '4H', '8C'} won by pair
+(1) {'TH', 'JD', '4S', 'JC', '6S'} won by a higher pair J
+(2) {'JH', '2H', '6S', '6H', '2C'} won by 2 pair
+(1) {'TC', '8S', 'AD', 'TD', 'AH'} won by 2 pair
+(2) {'5S', 'QH', '9H', 'AH', '7H'} won by high card A
+(2) {'3H', 'AD', '5H', 'AS', 'JS'} won by pair
+(2) {'8S', 'AD', '7S', '5D', '5C'} won by pair
+(2) {'6C', '8S', '5H', '4C', '8C'} won by pair
+(2) {'7C', 'QS', 'QC', 'JC', '3D'} won by pair
+(1) {'JH', 'KH', 'QS', 'JC', '9C'} won by pair
+(1) {'JH', 'AC', '5D', '9S', '5C'} won by pair
+(2) {'5S', '4D', '6H', '2C', '3D'} won by straight
+(2) {'3S', '7S', 'QH', '8C', '3D'} won by pair
+(2) {'3C', 'KH', 'KS', '9S', '6D'} won by pair
+(2) {'KD', 'KH', 'AC', '4D', '7H'} won by a higher pair A
+(1) {'AD', 'TH', 'AH', '9C', '6D'} won by a higher pair A
+(1) {'7C', 'QS', 'QD', '6H', '9C'} won by a higher pair Q
+(2) {'KH', '5S', 'KS', '4H', 'JC'} won by pair
+(2) {'AS', 'KC', 'AH', '8C', '3D'} won by pair
+(2) {'4C', '5S', 'TH', '5C', '8C'} won by pair
+(1) {'QS', 'QC', '2S', '2C', '8C'} won by 2 pair
+(1) {'8S', 'AD', '2D', '5D', 'AH'} won by pair
+(2) {'JD', '9S', '4H', '9H', '6H'} won by a higher pair Q
+(2) {'4C', 'AC', '2H', '8D', '4S'} won by pair
+(2) {'7C', 'TC', '7S', 'QS', 'QD'} won by 2 pair
+(2) {'JH', 'QD', 'JS', '4S', '4H'} won by 2 pair
+(2) {'TC', '8C', 'QC', '4H', 'TS'} won by pair
+(1) {'9D', 'JH', 'QS', '4D', 'QH'} won by a higher pair Q
+(1) {'5H', 'JD', '4H', '9S', '5C'} won by pair
+(2) {'AS', 'JS', '8D', 'AH', '7H'} won by pair
+(1) {'AD', 'KS', 'JS', 'AH', '8C'} won by pair
+(1) {'AD', 'KS', 'AC', '2H', '5D'} won by pair
+(2) {'JH', '4C', 'JD', 'JS', '6S'} won by three
+(2) {'4C', '3C', 'QS', 'KC', '5D'} won by high card K
+(1) {'6C', '4H', '6S', '6H', '7H'} won by three
+(2) {'3S', 'AD', 'TD', '4D', 'TS'} won by a higher pair A
+(1) {'7C', '8S', '5S', '7D', '2C'} won by pair
+(2) {'5H', 'QD', '9H', '9C', '6D'} won by a higher pair Q
+(2) {'9D', 'TS', 'TD', 'AC', '8C'} won by pair
+(1) {'5H', 'AC', '2S', 'QD', '8C'} won by high card A
+(2) {'AD', 'QS', '4D', 'JS', '4S'} won by pair
+(1) {'AD', 'TD', 'AS', '4D', '2S'} won by pair
+(2) {'3S', '6C', 'KC', 'JS', '4S'} won by high card K
+(2) {'8S', 'QS', 'JD', 'QH', '3D'} won by pair
+(2) {'KD', 'TC', 'AC', 'AH', '6D'} won by pair
+(2) {'AD', 'KH', 'AC', '8D', '5C'} won by a higher pair A
+(1) {'4C', 'KH', 'AS', '5S', 'AC'} won by pair
+(2) {'9D', 'QD', 'QH', '5C', '9C'} won by 2 pair
+(2) {'TD', '5H', 'QH', 'JC', '9C'} won by high card Q
+(2) {'6C', '7S', 'AS', 'KS', 'JD'} won by high card A
+(1) {'7C', 'TC', 'JH', '9H', '7H'} won by a higher pair J
+(1) {'9D', 'JH', '2H', 'QD', '2C'} won by pair
+(2) {'QS', 'KS', '7D', '4H', '6S'} won by high card K
+(1) {'TC', 'KS', '5S', '8H', '8D'} won by a higher pair A
+(2) {'KD', '9D', '4C', 'QS', '9S'} won by pair
+(1) {'9D', '3H', 'KH', 'AS', 'AC'} won by a higher pair A
+(1) {'7S', '7D', '9H', '5C', '3D'} won by pair
+(2) {'6C', '7S', '4D', 'QH', '6S'} won by pair
+(1) {'6C', 'AD', '4C', 'QD', '6D'} won by pair
+(1) {'JH', '7S', '2H', 'JD', '9S'} won by a higher pair K
+(1) {'9D', '2D', '4C', '7D', '9S'} won by a higher pair A
+(1) {'JH', '7S', 'QD', 'JC', '6D'} won by pair
+(1) {'KD', 'JH', 'TD', '2H', '8C'} won by high card K
+(2) {'3S', '8S', 'KH', '5S', '5D'} won by pair
+(2) {'JH', 'JC', '6S', '9C', '6D'} won by 2 pair
+(1) {'5H', 'JD', 'JS', 'AH', '9C'} won by pair
+(2) {'7C', '8S', 'TD', '8C', '9C'} won by pair
+(1) {'KH', 'KC', 'QD', '2C', '9C'} won by pair
+(2) {'3S', 'TD', '3C', 'QD', '9S'} won by pair
+(2) {'2S', 'JD', 'JS', 'QH', '6S'} won by pair
+(2) {'5D', '8H', '6S', 'AH', '7H'} won by high card A
+(2) {'7S', 'QS', 'AC', 'QH', '4H'} won by pair
+(2) {'3S', '7C', '9D', 'KS', 'AH'} won by high card A
+(1) {'AD', '2D', '5S', '2H', '6S'} won by pair
+(2) {'8S', 'JH', 'AS', 'KS', '6D'} won by high card A
+(2) {'TC', '6C', 'AS', 'KC', 'TS'} won by a higher pair A
+(2) {'7C', 'TD', '4C', '5S', 'TH'} won by pair
+(2) {'5H', '2D', '5S', '5D', '9C'} won by three
+(2) {'7C', 'KD', 'KS', 'QC', '9C'} won by pair
+(2) {'6C', 'AS', 'QD', '5C', '2C'} won by high card A
+(2) {'AC', '4D', '2S', '8D', '5C'} won by high card A
+(2) {'3S', 'TD', '3C', 'KS', '9H'} won by pair
+(2) {'3S', '6C', '5H', '6H', '8C'} won by pair
+(2) {'TH', '4D', '5D', '4H', 'TS'} won by 2 pair
+(2) {'AC', '2H', '7D', 'QD', '3D'} won by high card A
+(2) {'3H', 'JH', 'TD', '4C', '4H'} won by pair
+(1) {'5H', '7S', 'KH', '8H', '7H'} won by pair
+(1) {'7C', 'KD', 'AD', '5H', 'KH'} won by a higher pair A
+(2) {'3S', 'KH', 'KC', '2H', '7H'} won by pair
+(1) {'8S', 'AD', '7S', '4D', '4H'} won by pair
+(1) {'KD', 'TC', 'KS', '8D', '9S'} won by pair
+(2) {'7C', '9D', 'TC', '9S', '6H'} won by pair
+(2) {'JH', '3C', 'KH', 'TH', 'JS'} won by a higher pair K
+(2) {'KD', 'AD', '7S', 'AS', '8H'} won by pair
+(2) {'AD', 'AS', 'JS', '9S', '9C'} won by 2 pair
+(1) {'AD', 'AC', 'QD', '6S', '2C'} won by a higher pair A
+(2) {'7S', 'KH', 'KC', '8C', 'TS'} won by a higher pair K
+(2) {'AD', 'KS', '7D', '5C', '6D'} won by high card A
+(2) {'6C', 'TD', '7S', '7D', '2H'} won by pair
+(1) {'9D', 'TD', 'QS', '5S', 'AC'} won by high card A
+(2) {'4C', 'KC', '5D', '7H', '3D'} won by high card K
+(2) {'TC', '5H', '5S', 'QC', '9H'} won by pair
+(1) {'5H', 'TH', 'QD', 'TS', '9C'} won by pair
+(2) {'TD', 'TH', '2H', '2C', '3D'} won by 2 pair
+(2) {'AD', 'KC', '8D', '8C', '6D'} won by pair
+(2) {'TD', '7S', '8H', '9S', 'JC'} won by straight
+(2) {'KD', 'TC', 'TD', 'TH', 'KS'} won by full house
+(2) {'8S', '5H', 'AS', 'KH', '5C'} won by pair
+(2) {'9D', '8S', '7S', '5D', '7H'} won by pair
+(2) {'KD', 'TC', '7D', '2C', 'TS'} won by pair
+(2) {'KD', 'KH', 'JD', '4S', '8D'} won by pair
+(1) {'AD', 'AS', '7D', 'QH', '5C'} won by a higher pair A
+(2) {'6C', 'AD', 'QC', '5D', '6D'} won by pair
+(2) {'TC', 'TD', 'JS', '4H', 'AH'} won by a higher pair A
+(1) {'2D', '4D', '2C', 'TS', '7H'} won by pair
+(2) {'JH', '5H', '4S', '9H', '5C'} won by pair
+(2) {'8S', '4C', '2H', '8D', '4H'} won by 2 pair
+(1) {'KD', 'AC', 'JS', '6S', '3D'} won by high card A
+(2) {'3S', '3H', '3C', 'QD', '4H'} won by three
+(1) {'AS', 'KH', '4H', '8C', '7H'} won by high card A
+(2) {'AD', '5H', 'AC', '2C', '3D'} won by pair
+(1) {'JH', '2D', '4C', 'TD', 'TS'} won by a higher pair A
+(1) {'5H', '4C', 'AS', '4D', '6S'} won by pair
+(2) {'AD', '5H', 'QH', '4S', 'AH'} won by pair
+(1) {'7C', 'KC', '2S', '9H', '7H'} won by a higher pair K
+(1) {'TC', '3C', 'QD', '4H', '9C'} won by high card Q
+(1) {'7C', '6C', '5D', '6S', '5C'} won by 2 pair
+(1) {'AD', '7D', 'KC', '2H', '2C'} won by pair
+(2) {'TD', 'AD', 'JH', 'AS', 'KS'} won by pair
+(1) {'AD', 'TD', '4D', '4S', '5C'} won by pair
+(1) {'3S', '5S', '4D', '8H', '4S'} won by a higher pair A
+(1) {'3C', 'QS', 'AC', '4S', '9H'} won by high card A
+(1) {'6C', '5H', 'AC', 'JC', 'TS'} won by high card A
+(2) {'3C', 'QC', 'QH', '8D', '6H'} won by a higher pair Q
+(2) {'7C', '3H', 'QS', 'QH', '6D'} won by pair
+(2) {'3S', 'KH', '2H', 'JS', '8C'} won by high card K
+(2) {'3H', '7S', 'AC', 'JD', 'JC'} won by pair
+(1) {'6C', '2D', '4C', '3C', '5S'} won by straight
+(2) {'AD', '6H', '8C', '7H', '6D'} won by pair
+(2) {'KH', 'KS', '8H', 'AH', '6D'} won by a higher pair A
+(1) {'8S', '3H', '7D', '8H', 'AH'} won by pair
+(2) {'9D', 'AS', 'KS', 'QH', '9S'} won by pair
+(2) {'KD', '4C', 'QS', 'JC', 'AH'} won by high card A
+(2) {'TD', 'JD', 'QH', '6H', 'TS'} won by pair
+(2) {'9D', '8S', '7S', '8D', '9C'} won by 2 pair
+(2) {'3H', '8D', '8C', '7H', '3D'} won by 2 pair
+(1) {'3S', 'KH', 'QS', '2S', '2C'} won by pair
+(2) {'6C', '4C', 'AS', 'AC', '7H'} won by pair
+(2) {'8S', 'TD', 'QS', '2H', '2C'} won by pair
+(2) {'4C', '5S', '5D', '4H', 'JC'} won by 2 pair
+(2) {'JS', '8H', 'QH', 'JC', '6D'} won by pair
+(1) {'3S', '7C', '4C', 'QD', 'QH'} won by a higher pair A
+(1) {'TC', 'TD', '2S', 'JC', '9H'} won by a higher pair Q
+(2) {'3S', '3H', 'KC', '8H', '6S'} won by pair
+(2) {'5H', 'TH', 'AC', '6H', '2C'} won by high card A
+(2) {'6C', '8S', '2S', '6S', '8C'} won by 2 pair
+(2) {'KD', '7S', '3C', 'QS', 'AC'} won by high card A
+(2) {'3S', 'AS', 'KS', 'QC', '9S'} won by high card A
+(2) {'KD', '3H', 'KC', '7D', '9H'} won by pair
+(1) {'7C', 'KH', '2H', '4D', '4S'} won by pair
+(1) {'9D', '3C', 'AS', '4C', 'JC'} won by high card A
+(2) {'JH', '9H', '9C', '3D', '6D'} won by pair
+(2) {'TC', 'KS', '2S', '6H', '9C'} won by high card K
+(1) {'6C', 'AD', '6H', '8C', '7H'} won by pair
+(1) {'3S', 'TS', '8S', 'KS', '8C'} won by a higher pair K
+(1) {'7D', '4H', '4S', '9H', '5C'} won by a higher pair K
+(1) {'TC', '9D', 'JS', '9H', '5C'} won by pair
+(2) {'TC', 'TD', 'KH', '2H', 'JD'} won by pair
+(2) {'9D', '5H', 'QS', 'QH', '6H'} won by a higher pair K
+(2) {'JH', '2D', 'JD', '8D', 'JC'} won by three
+(1) {'2D', '2H', 'JC', '2C', '7H'} won by three
+(2) {'3H', 'TD', 'TH', '6H', '3D'} won by 2 pair
+(1) {'3S', 'JH', 'AC', 'QH', 'JC'} won by pair
+(2) {'2H', '4D', '5D', '2S', '9C'} won by pair
+(2) {'KS', 'KC', '8H', 'JC', '6H'} won by a higher pair K
+(2) {'6C', 'AC', '9S', '8D', '3D'} won by high card A
+(2) {'8S', 'AD', '8D', '4H', '2C'} won by a higher pair A
+(2) {'TC', '3C', 'AS', '5D', 'TS'} won by a higher pair A
+(2) {'6C', 'AD', '2H', '4S', '3D'} won by high card A
+(2) {'2D', '3C', '4D', '9S', '9H'} won by a higher pair K
+(2) {'8S', '5S', 'AC', '9H', 'AH'} won by pair
+(2) {'4C', 'QS', '8H', '4H', '9C'} won by pair
+(2) {'QS', 'KC', 'QD', '6S', '9C'} won by pair
+(2) {'JS', '4S', '4H', '6S', '8C'} won by pair
+(2) {'3H', 'KH', 'TH', '5D', '8C'} won by high card K
+(1) {'3S', '7S', 'KH', '5S', '2C'} won by high card K
+(1) {'2D', 'KH', 'KS', 'AC', '8H'} won by pair
+(2) {'7C', '6C', '5H', '9S', 'AH'} won by high card A
+(2) {'7C', 'TD', '7S', 'QD', 'AH'} won by a higher pair A
+(2) {'9D', '3H', '7S', 'AH', 'TS'} won by high card A
+(2) {'7C', 'TD', '7S', '6H', '8C'} won by pair
+(2) {'7D', 'JD', '4H', 'AH', '9C'} won by high card A
+(2) {'2H', 'QC', 'QH', '9H', '2C'} won by 2 pair
+(2) {'TD', '7S', 'QS', 'TH', '4H'} won by pair
+(1) {'KD', '3H', '3C', 'QS', '2H'} won by pair
+(1) {'KS', 'TH', 'QD', '9S', 'JC'} won by straight
+(2) {'8S', 'AD', 'QC', '8D', 'AH'} won by 2 pair
+(2) {'7C', '4C', 'KS', 'KC', '6H'} won by a higher pair K
+(2) {'7S', 'AC', '4D', '6H', '2C'} won by high card A
+(2) {'5H', '4C', 'KH', '9H', '6D'} won by high card K
+(2) {'4C', 'KS', 'QD', '4S', '3D'} won by pair
+(1) {'7C', '3C', 'AC', 'JD', 'JC'} won by pair
+(1) {'AS', '5S', '2H', 'JD', '6S'} won by high card A
+(1) {'TC', '8S', '5S', '8D', '9S'} won by pair
+(2) {'4D', '5D', 'JS', '8D', '7H'} won by high card J
+(2) {'8S', 'AS', '2H', '4H', '5C'} won by high card A
+(2) {'KD', 'KC', '2S', '5D', 'JD'} won by a higher pair K
+(1) {'4C', 'JD', '8H', '4S', '7H'} won by pair
+(2) {'6C', 'AD', 'QC', 'QD', '2S'} won by pair
+(2) {'AD', '5S', 'AC', '2H', '2S'} won by 2 pair
+(2) {'9D', 'JH', '4C', '4S', '3D'} won by a higher pair A
+(1) {'5H', '7S', '5D', '8D', '6H'} won by pair
+(2) {'5S', '7D', 'JD', '8H', '5C'} won by pair
+(2) {'TC', 'AD', '7S', 'JD', '7H'} won by pair
+(1) {'9D', 'AC', '4D', '2S', 'TS'} won by high card A
+(2) {'5H', '5D', '8D', '6H', '3D'} won by pair
+(2) {'7C', '4C', 'KH', '2S', '7H'} won by pair
+(1) {'3S', 'AC', '2H', 'JC', '5C'} won by high card A
+(2) {'8S', '5S', '5D', 'JC', '2C'} won by pair
+(1) {'6C', '7S', 'QC', 'QH', '7H'} won by 2 pair
+(1) {'2H', '2S', 'QD', 'JC', '2C'} won by three
+(1) {'7C', '8S', '7D', '5C', '9C'} won by a higher pair J
+(2) {'9D', '7S', '4C', 'KH', 'KS'} won by pair
+(2) {'3S', '9D', 'QC', '8D', 'AH'} won by high card A
+(1) {'TC', '5H', '5S', 'KC', '6H'} won by pair
+(1) {'KD', 'AD', 'TD', '4H', '9C'} won by high card A
+(2) {'KD', '9D', '4C', 'KH', '4H'} won by 2 pair
+(2) {'9D', '3H', 'QS', '2H', '7D'} won by high card Q
+(2) {'AD', 'QS', 'QD', '6H', '5C'} won by pair
+(1) {'TC', '5H', 'TH', 'QC', '7H'} won by a higher pair K
+(2) {'3S', 'KS', 'JC', '5C', '2C'} won by high card K
+(2) {'3S', '3H', 'JS', '9H', '3D'} won by three
+(1) {'2D', '4D', '8H', '4S', '8C'} won by 2 pair
+(1) {'4C', '8D', '9S', '9H', '2C'} won by pair
+(2) {'9D', '5H', 'JC', 'AH', '9C'} won by pair
+(2) {'3S', '7D', '4D', '6S', '3D'} won by pair
+(2) {'3H', 'JD', '4H', '7H', '3D'} won by pair
+(1) {'TH', '4D', '4H', '9H', '9C'} won by 2 pair
+(1) {'8S', 'AD', 'AC', '2H', '4S'} won by pair
+(2) {'TC', 'JD', '8H', '8C', '3D'} won by pair
+(2) {'7C', '6C', 'JD', '9H', '9C'} won by pair
+(1) {'JH', '5D', 'JS', '6S', 'AH'} won by pair
+(2) {'3S', 'TC', '7D', 'AH', 'TS'} won by a higher pair A
+(1) {'TD', 'AS', '5D', '8H', 'AH'} won by pair
+(1) {'KS', '4D', '8D', '4S', '7H'} won by pair
+(1) {'KD', '3H', 'QD', 'QH', '4S'} won by a higher pair K
+(2) {'2D', 'KH', 'QS', 'KS', '4D'} won by a higher pair A
+(1) {'KD', 'AD', '3C', 'JS', 'JC'} won by pair
+(2) {'7C', 'AS', '2S', 'JD', 'QD'} won by high card A
+(2) {'KS', 'AC', '5D', '8H', '9H'} won by high card A
+(2) {'7C', '6C', '5S', 'JD', '6D'} won by pair
+(1) {'TD', 'KH', 'QS', 'QD', '2C'} won by pair
+(1) {'9D', 'TC', 'JH', 'QH', '9H'} won by pair
+(1) {'3S', '6C', '2S', '4S', '3D'} won by a higher pair Q
+(1) {'2D', '2S', 'JC', '6H', '6D'} won by 2 pair
+(2) {'7C', 'AC', '4S', '4H', 'TS'} won by pair
+(2) {'9D', '2D', 'KS', '2H', '4D'} won by pair
+(1) {'9D', '6C', '4S', '9C', '6D'} won by 2 pair
+(1) {'6C', 'JD', 'JC', 'AH', 'TS'} won by pair
+(1) {'3S', 'JH', '7S', 'JD', 'JC'} won by three
+(2) {'7S', '2H', 'JS', '9S', '7H'} won by pair
+(2) {'AS', 'KC', 'JD', '6H', '2C'} won by high card A
+(1) {'KD', '5H', '5S', 'AC', '2C'} won by pair
+(1) {'TC', '8S', 'QH', '8D', 'JC'} won by a higher pair A
+(1) {'8S', '3H', 'JH', 'QD', 'JS'} won by a higher pair Q
+(1) {'5H', '4C', '4S', 'AH', '6D'} won by pair
+(1) {'3H', '2H', 'JS', '8H', 'AH'} won by high card A
+(1) {'KD', '5H', '2H', '8H', '6S'} won by high card K
+(1) {'7S', 'KC', 'QC', '2S', 'AH'} won by high card A
+(2) {'7C', '6C', '9D', '7S', '2H'} won by pair
+(1) {'6C', '3C', '5S', 'JD', '5C'} won by pair
+(2) {'TC', '5H', '2D', 'QS', '2H'} won by pair
+(2) {'KD', '9D', '3C', '2H', '9S'} won by pair
+(1) {'3S', 'QS', 'JS', '4S', '4H'} won by pair
+(2) {'KH', 'QS', 'QC', '5D', 'QH'} won by three
+(2) {'8S', '5H', 'KH', '8D', '8C'} won by three
+(2) {'AS', '5S', 'QC', 'JS', '7H'} won by high card A
+(2) {'6C', '2D', 'KC', '6S', '6H'} won by three
+(2) {'KD', 'KH', '4D', '8H', '3D'} won by pair
+(1) {'TC', 'JH', 'KH', 'AC', '9C'} won by high card A
+(1) {'9D', '7S', '4C', 'AS', '4H'} won by pair
+(1) {'3S', '8S', 'KS', '8D', '8C'} won by three
+(2) {'9D', 'AC', 'QC', 'JS', '6H'} won by high card A
+(1) {'7C', '8S', 'JD', 'JS', '8C'} won by 2 pair
+(2) {'8S', 'JH', '2D', '4C', 'JS'} won by pair
+(2) {'5H', 'KH', 'KC', 'QD', '4S'} won by a higher pair K
+(1) {'2D', 'QD', '8D', '6S', '8C'} won by pair
+(1) {'3C', 'QC', 'JS', 'QH', '3D'} won by 2 pair
+(2) {'3H', 'KC', '2H', 'QC', '5D'} won by high card K
+(2) {'QD', 'QH', 'AH', '3D', '6D'} won by pair
+(2) {'5H', 'QS', 'AC', 'JD', 'TS'} won by high card A
+(2) {'6C', 'AC', 'KC', 'QC', 'JS'} won by high card A
+(2) {'8S', 'AD', '7S', '4H', '9S'} won by high card A
+(1) {'5H', 'QD', 'QH', '4H', '9H'} won by pair
+(2) {'2D', '4C', 'KH', 'JD', '2C'} won by pair
+(1) {'3H', '2D', 'AH', '9H', '2C'} won by pair
+(2) {'5H', 'AS', '2S', '4S', 'AH'} won by pair
+(2) {'3S', 'TC', 'KH', 'AC', '5C'} won by high card A
+(1) {'7S', 'QC', 'AH', '7H', '6D'} won by pair
+(2) {'AS', 'KH', '5S', '7D', 'JC'} won by high card A
+(2) {'KD', '6C', 'QD', '9H', '6S'} won by pair
+(2) {'JH', 'JS', '4H', '9H', '2C'} won by pair
+(2) {'3H', '7S', 'QS', '7D', '9S'} won by pair
+(2) {'3S', '3H', '4D', 'QH', '4H'} won by 2 pair
+(1) {'6C', 'AS', '2H', 'JD', '5C'} won by high card A
+(2) {'AD', '7D', '9H', 'JC', '7H'} won by pair
+(1) {'TC', '8C', '4H', '2C', 'TS'} won by pair
+(2) {'9D', 'KC', '9H', '9C', '6D'} won by three
+(2) {'TH', 'QD', '8H', '8D', 'JC'} won by pair
+(1) {'QC', 'QD', '2S', '2C', '9C'} won by 2 pair
+(2) {'TC', 'TD', '3C', 'JC', '9H'} won by a higher pair J
+(1) {'4C', '3C', '8H', '5C', 'TS'} won by high card 10
+(2) {'3S', 'AS', 'QS', 'AH', '2C'} won by pair
+(2) {'3S', '4C', '5S', '7D', '6S'} won by straight
+(2) {'KD', 'AS', 'QS', 'KS', 'KC'} won by three
+(1) {'KD', 'KS', '4D', '9H', 'AH'} won by pair
+(2) {'2H', 'QH', '9S', 'JC', 'AH'} won by high card A
+(2) {'JH', '2H', 'QC', 'QD', '8H'} won by a higher pair Q
+(2) {'JH', '4C', '7D', '6S', '6H'} won by pair
+(1) {'JD', 'JS', '9H', 'AH', '9C'} won by 2 pair
+(2) {'8S', 'AD', '9H', 'AH', '3D'} won by pair
+(2) {'JH', '5H', 'AC', 'JS', 'AH'} won by 2 pair
+(1) {'3C', 'AC', '2H', 'JD', '8D'} won by high card A
+(1) {'7C', '6C', 'JH', 'JS', '9H'} won by a higher pair J
+(2) {'AD', 'JH', 'QD', 'JS', '9H'} won by pair
+(1) {'JH', '7S', 'KH', '6H', 'AH'} won by high card A
+(2) {'9D', 'TC', '4C', 'QC', '9S'} won by a higher pair Q
+(2) {'AS', '4D', 'QD', 'JS', '7H'} won by high card A
+(2) {'9D', '3H', '5H', '3C', '9C'} won by 2 pair
+(2) {'AS', 'AC', 'KC', '9S', '5C'} won by pair
+(2) {'TC', '2D', 'KC', 'AH', '6D'} won by high card A
+(2) {'KH', 'KS', '7D', '8D', '6D'} won by pair
+(2) {'3S', '3H', '5S', 'QC', '8H'} won by pair
+(1) {'3S', 'KD', '4C', 'AS', '8H'} won by high card A
+(1) {'9D', 'JH', '7S', '7H', '6D'} won by a higher pair A
+(1) {'8S', '4C', '2H', '4S', '2C'} won by 2 pair
+(1) {'3S', '6C', '3H', 'QS', 'QC'} won by 2 pair
+(1) {'3H', 'JH', '2H', '2S', '8D'} won by pair
+(2) {'AD', '7S', '2H', '6S', 'TS'} won by high card A
+(2) {'KC', '7D', 'JD', '4H', '5C'} won by high card K
+(1) {'5S', 'QC', '4D', '9H', '9C'} won by pair
+(2) {'5C', '7S', 'JS', '8H', '6H'} won by high card J
+(2) {'5H', 'TH', 'KC', '4D', 'JC'} won by high card K
+(2) {'2D', '4C', 'KC', '4D', '9S'} won by pair
+(2) {'AD', '4C', 'KS', '4H', 'TS'} won by pair
+(2) {'KD', '4C', 'KS', '5D', '7H'} won by pair
+(1) {'2H', '2S', 'JC', '6S', '9C'} won by pair
+(1) {'8S', '7S', 'AC', 'KC', '8H'} won by a higher pair A
+(1) {'JH', '2D', 'JS', '4S', '8C'} won by a higher pair A
+(2) {'7C', 'AS', '5S', 'AC', '8H'} won by pair
+(2) {'2S', 'QH', '6S', '2C', '9C'} won by pair
+(2) {'TC', '8S', 'QS', 'QD', '8D'} won by 2 pair
+(1) {'5S', '9H', 'AH', '9C', '3D'} won by pair
+(2) {'7S', 'KH', 'KC', '9H', '6D'} won by pair
+(2) {'JH', 'AC', '7D', '2S', '8C'} won by high card A
+(1) {'3S', '9D', 'QD', 'JC', '9C'} won by a higher pair K
+(2) {'3H', '8H', '9S', '9H', '8C'} won by 2 pair
+(2) {'TC', 'AD', '4S', '9H', 'AH'} won by a higher pair A
+(1) {'TH', 'AC', 'KC', 'QC', 'TS'} won by pair
+(2) {'2H', '9H', 'JC', 'AH', 'TS'} won by high card A
+(1) {'3H', '4D', '5D', 'QH', '9C'} won by high card Q
+(2) {'AC', 'JD', 'JS', '8D', 'TS'} won by pair
+(2) {'AD', '5S', '2S', '2C', '8C'} won by pair
+(2) {'TC', '7D', 'QD', 'QH', '6H'} won by pair
+(1) {'KD', '5S', 'KC', '2C', '7H'} won by a higher pair A
+(1) {'5C', '5H', 'AC', '6H', '2C'} won by a higher pair A
+(2) {'4C', 'KS', 'JD', '4H', '8C'} won by pair
+(2) {'4C', 'AS', 'QS', 'QC', '3D'} won by pair
+(2) {'3C', 'KH', '7D', 'JS', '6H'} won by high card K
+(1) {'8S', '7D', '2H', 'QD', '2C'} won by pair
+(2) {'7C', 'AD', 'QD', '8D', '6S'} won by high card A
+(1) {'3S', '7C', 'AD', '2H', '9H'} won by high card A
+(2) {'TC', '8S', 'TD', '7S', '8H'} won by 2 pair
+(1) {'3S', 'JH', 'TD', 'TH', '4D'} won by a higher pair Q
+(2) {'9D', 'QC', '4S', '4H', '9S'} won by 2 pair
+(1) {'9D', 'JD', 'JS', '6H', '8C'} won by pair
+(1) {'7C', '8S', 'TD', 'KC', '3D'} won by high card K
+(2) {'TC', 'KS', '5S', 'AC', 'KC'} won by pair
+(2) {'KD', '2D', '6H', '8C', '6D'} won by pair
+(2) {'2D', 'AC', '6S', '5C', 'TS'} won by high card A
+(1) {'5H', '3C', '5S', '4S', '8C'} won by a higher pair A
+(1) {'7C', '3H', 'AD', 'AS', 'TS'} won by a higher pair A
+(2) {'5H', '5D', '4H', '9H', 'TS'} won by pair
+(1) {'6C', 'TD', '7S', '5C', '7H'} won by a higher pair A
+(2) {'8S', 'KH', 'QS', '8D', 'TS'} won by pair
+(2) {'AC', '8H', '2C', '9S', 'AH'} won by a higher pair A
+(2) {'AS', 'JD', '4D', 'AH', '3D'} won by pair
+(2) {'6C', 'JH', 'KH', 'QC', 'JS'} won by a higher pair K
+(1) {'7S', '2D', 'TH', 'KC', '6H'} won by high card K
+(2) {'TH', '2H', '5D', '2C', '6D'} won by pair
+(2) {'8S', 'TD', '7S', '9H', 'TS'} won by pair
+(1) {'2H', 'JD', 'JS', 'JC', '6D'} won by three
+(1) {'KH', 'JD', '5D', '4H', '9S'} won by high card K
+(2) {'7S', 'KH', 'QS', '4D', 'QH'} won by a higher pair K
+(2) {'3S', '4C', '5S', '6H', '2C'} won by straight
+(1) {'AS', 'QS', 'JD', '8D', '3D'} won by high card A
+(1) {'7S', '2H', 'QC', '8C', '7H'} won by pair
+(1) {'6C', 'KH', '5S', '7D', '7H'} won by pair
+(2) {'2D', 'KS', '4D', '4S', '8C'} won by pair
+(2) {'9D', 'AD', 'TD', '2C', 'AH'} won by a higher pair A
+(1) {'JH', 'AD', '3C', 'KS', '4S'} won by high card A
+(1) {'7C', 'TD', 'AS', 'JD', '4D'} won by high card A
+(1) {'8S', '3H', '9S', '6S', '9C'} won by pair
+(2) {'9D', 'TD', 'AS', '7D', '8C'} won by high card A
+(2) {'7S', '3C', 'KH', 'QC', '3D'} won by pair
+(1) {'4C', 'AS', 'QS', '5S', '4D'} won by pair
+(1) {'6C', '5H', '4C', 'AH', '6D'} won by pair
+(2) {'3S', '6C', 'KH', 'AC', '6S'} won by pair
+(2) {'3S', 'AS', 'QC', '6S', '7H'} won by high card A
+(2) {'AS', 'KC', '2C', '4H', 'AH'} won by pair
+(1) {'JH', '2D', '6H', '2C', '9C'} won by pair
+(2) {'AD', 'AS', 'QC', '6S', '6H'} won by 2 pair
+(2) {'3C', 'QS', 'TH', 'JS', '3D'} won by pair
+(2) {'AD', 'AS', 'JD', '8H', '6H'} won by pair
+(2) {'5H', '5S', '7D', 'JS', 'TS'} won by pair
+(2) {'7S', '3C', 'AH', 'TS', '6D'} won by high card A
+(1) {'7C', 'QC', '4H', 'AH', '7H'} won by pair
+(2) {'6C', 'TC', 'JH', '5H', 'JD'} won by pair
+(1) {'JS', '4H', '4S', '8C', '3D'} won by pair
+(2) {'TC', 'TD', 'AD', 'KH', '6S'} won by a higher pair A
+(2) {'AD', 'QD', '6S', '6H', '3D'} won by pair
+(1) {'7C', 'TH', 'QH', '6H', 'TS'} won by pair
+(2) {'KD', 'KH', 'AC', '7D', '4H'} won by a higher pair A
+(2) {'8S', 'JH', 'TH', 'JD', 'QD'} won by a higher pair Q
+(1) {'7C', '6C', '9D', '7D', '8D'} won by pair
+(2) {'JH', '2D', 'KS', '4H', '8D'} won by high card K
+(2) {'9D', '3H', '2D', 'AH', '6D'} won by high card A
+(2) {'KD', 'TD', '3C', 'KS', 'TH'} won by 2 pair
+(2) {'KD', '9D', '2S', '2C', '9C'} won by 2 pair
+(1) {'3H', 'KS', '8D', '5C', '7H'} won by high card K
+(1) {'6C', '2D', 'TH', 'QD', '6D'} won by a higher pair A
+(2) {'TC', '5H', 'QC', 'QH', 'JC'} won by a higher pair Q
+(1) {'3S', '3C', '6H', '5C', '3D'} won by three
+(1) {'AC', '4D', '5D', '5C', '8C'} won by a higher pair A
+(2) {'4C', 'QC', 'QD', 'JS', '6S'} won by pair
+(2) {'7C', '3H', 'AD', 'JS', 'JC'} won by pair
+(2) {'8S', 'TD', '9S', '9H', 'TS'} won by 2 pair
+(1) {'AS', 'AC', '7D', 'QD', 'TS'} won by pair
+(2) {'9D', '8S', '3C', 'KH', '8D'} won by pair
+(2) {'AD', '3C', '4C', 'JS', 'JC'} won by pair
+(2) {'5H', 'JH', 'TH', 'AC', 'JS'} won by pair
+(2) {'AS', 'KH', 'KS', '5S', '6S'} won by pair
+(2) {'9D', '6C', '2H', '5C', '9C'} won by pair
+(2) {'3H', 'TD', 'AC', 'QD', 'JC'} won by high card A
+(2) {'KD', '7S', 'KS', 'KC', '5C'} won by three
+(1) {'3H', '2D', 'QD', '2S', '6D'} won by pair
+(1) {'8S', 'AS', '8D', '2C', '6D'} won by pair
+(1) {'TD', '2D', 'QH', '9H', '9C'} won by pair
+(1) {'8S', 'KH', 'KC', '2S', '3D'} won by a higher pair K
+(1) {'9D', 'QS', 'AC', 'KC', '9H'} won by pair
+(2) {'8S', 'AD', '7D', '2H', 'JS'} won by high card A
+(1) {'AS', 'AC', '9S', '2C', '3D'} won by a higher pair A
+(2) {'4C', 'KS', '5S', '8H', '8D'} won by pair
+(1) {'3S', '5H', '2H', '2S', '7H'} won by pair
+(2) {'3S', 'AC', '9S', '9C', '6D'} won by pair
+(2) {'6C', 'AD', '2S', '4S', '6S'} won by pair
+(2) {'JH', 'KC', '2H', 'QD', 'QH'} won by pair
+(2) {'QS', '2H', 'QD', '8H', '5C'} won by pair
+(1) {'3S', 'KD', '6S', '7H', '6D'} won by pair
+(2) {'8S', 'AD', '7S', '2D', 'TS'} won by high card A
+(2) {'TD', 'QD', 'QH', '8H', 'JC'} won by a higher pair Q
+(2) {'KH', 'AS', 'TH', '9H', '2C'} won by high card A
+(2) {'AD', '5H', 'KC', 'QH', '9H'} won by high card A
+(2) {'7C', 'TD', 'AC', '2S', '6S'} won by high card A
+(2) {'6C', 'JH', 'KS', '2S', '4D'} won by high card K
+(2) {'KD', '4C', '9C', '3D', '6D'} won by high card K
+(1) {'2D', 'AC', '9H', 'AH', '7H'} won by pair
+(2) {'KD', '8S', 'AS', 'KH', '8C'} won by 2 pair
+(1) {'TD', '7S', '2D', 'TH', '6D'} won by pair
+(1) {'KD', '8S', 'QS', 'JD', 'QH'} won by pair
+(2) {'3S', 'TD', '2D', '7D', 'AH'} won by high card A
+(2) {'6C', '7S', 'TH', 'TS', '6D'} won by 2 pair
+(2) {'3H', '8S', '8D', 'TS', '9C'} won by a higher pair Q
+(2) {'TC', 'AD', '5S', '2H', 'AH'} won by pair
+(1) {'KD', '6C', '9D', 'TS', '9C'} won by a higher pair K
+(2) {'AD', '3C', 'KS', 'TH', '4H'} won by high card A
+(1) {'KD', '9D', 'KH', '2H', '9C'} won by 2 pair
+(2) {'3H', '5D', 'QH', '9S', '9C'} won by pair
+(1) {'TD', '2D', '4C', '2H', '8C'} won by pair
+(2) {'7C', 'AD', 'KH', '5D', '8D'} won by high card A
+(1) {'8S', '4C', '2S', '9S', '8C'} won by a higher pair Q
+(2) {'3C', '2H', '2S', '4S', '5C'} won by pair
+(1) {'3S', '8S', '2H', 'JC', '6S'} won by high card J
+(2) {'3S', '4C', 'JD', '4H', '6S'} won by pair
+(1) {'3S', '3H', '4C', '7D', '9S'} won by pair
+(2) {'AD', 'QD', '9H', '9C', '6D'} won by a higher pair A
+(2) {'4C', 'TH', 'KC', 'JD', '4S'} won by pair
+(2) {'KD', 'AD', '5H', 'AS', '9H'} won by pair
+(2) {'5H', 'QS', 'TH', 'QH', '5C'} won by 2 pair
+(2) {'6C', 'TC', '4C', 'TH', '4D'} won by 2 pair
+(1) {'9D', 'KD', 'KH', 'AS', 'TS'} won by pair
+(2) {'7C', '4C', 'TH', 'AH', 'TS'} won by pair
+(1) {'8S', 'KS', 'AC', '4D', '9S'} won by high card A
+(1) {'TC', 'QS', '5D', '5C', '8C'} won by a higher pair Q
+(1) {'9D', '2D', '3C', 'KS', 'KC'} won by pair
+(1) {'7S', '7D', '8H', '6H', 'AH'} won by pair
+(2) {'4C', 'KC', '7D', '4H', '8C'} won by pair
+(2) {'8S', 'JH', '4C', 'QH', 'AH'} won by high card A
+(2) {'3S', '2S', '9H', '2C', '9C'} won by 2 pair
+(2) {'3H', 'TD', '5S', 'AC', 'KC'} won by high card A
+(1) {'AS', 'QS', '7D', 'QH', 'JC'} won by a higher pair A
+(1) {'AS', 'JS', 'QH', '4H', '3D'} won by high card A
+(1) {'9D', '2S', '5D', '4D', '4S'} won by pair
+(2) {'7C', '8S', 'JH', '2D', 'AC'} won by high card A
+(2) {'9D', '4C', '5S', '8H', '9H'} won by pair
+(2) {'9D', 'KH', 'KS', '8D', 'AH'} won by pair
+(2) {'3H', '5H', 'QC', 'AH', '9C'} won by high card A
+(2) {'TD', 'QC', 'JC', '9H', '9C'} won by a higher pair A
+(1) {'2D', '5S', '5D', 'QH', 'JC'} won by pair
+(1) {'JH', '5H', '5S', 'AH', '7H'} won by pair
+(2) {'6C', 'JH', '7S', 'KC', 'AH'} won by high card A
+(1) {'9D', 'AD', '7S', '4C', 'KS'} won by high card A
+(1) {'5H', '3C', '8H', '5C', '7H'} won by pair
+(2) {'AD', '8H', 'QH', '9H', 'AH'} won by pair
+(2) {'3C', '2H', '2S', '5D', '6D'} won by pair
+(1) {'8S', '3C', '6S', '6H', 'TS'} won by pair
+(1) {'7C', 'JH', 'KS', '9C', '3D'} won by high card K
+(2) {'3S', 'KD', 'JH', 'KS', 'JC'} won by 2 pair
+(2) {'5H', '7S', 'AH', '8H', '2C'} won by high card A
+(1) {'KH', 'KC', 'QD', '8D', '6D'} won by a higher pair K
+(2) {'7C', 'TC', 'KC', '2S', '6D'} won by high card K
+(1) {'KD', 'JH', 'KC', '9C', '7H'} won by pair
+(2) {'8S', '5S', '2H', '8D', '7H'} won by a higher pair 9
+(1) {'7C', 'AD', '7S', '3C', '5S'} won by pair
+(2) {'4C', 'KH', 'QS', 'QH', 'JC'} won by pair
+(2) {'8S', 'QC', 'QD', 'JS', '6D'} won by pair
+(2) {'AS', 'AC', 'JD', '9H', '2C'} won by pair
+(1) {'7S', '3C', 'KS', 'QC', 'QH'} won by a higher pair A
+(2) {'KD', '3H', '5C', 'TS', '3D'} won by pair
+(2) {'KD', '3H', 'KS', 'AC', '4H'} won by pair
+(2) {'4C', '2H', 'QC', '8C', '9C'} won by high card Q
+(2) {'KD', 'AD', '4C', 'JS', 'QH'} won by high card A
+(2) {'KD', 'JD', 'JS', 'JC', '9H'} won by three
+(1) {'8S', '7S', '3C', '4S', 'TS'} won by high card 10
+(1) {'KD', '7S', 'JS', '5C', '6D'} won by high card K
+(1) {'6C', 'TC', 'TD', 'QH', '6H'} won by 2 pair
+(2) {'6C', '8S', '6S', '2C', '7H'} won by pair
+(1) {'3S', '9D', 'JH', 'JD', '9H'} won by 2 pair
+(2) {'AD', '3C', '7D', '2S', '4S'} won by high card A
+(1) {'AS', 'QC', 'QH', '5C', 'TS'} won by a higher pair A
+(2) {'KD', 'KH', 'QS', 'JS', '4H'} won by pair
+(2) {'9D', '3C', 'KC', '8H', '8D'} won by pair
+(1) {'TC', '8S', 'AD', '2H', '9S'} won by high card A
+(2) {'7C', 'KD', '8H', 'AH', '9C'} won by high card A
+(1) {'TD', '3C', 'QS', 'QH', 'TS'} won by 2 pair
+(1) {'3H', '5S', 'AC', 'KC', '5D'} won by a higher pair A
+(2) {'KD', '6C', 'TD', 'TH', '6D'} won by 2 pair
+(2) {'KH', '7D', '9S', '8C', '6D'} won by high card K
+(1) {'7S', 'QS', 'QC', '2S', 'JD'} won by pair
+(2) {'7C', 'AD', '2D', 'JC', '9C'} won by high card A
+(1) {'5H', 'JH', '4S', 'AH', '9C'} won by high card A
+(1) {'6C', 'KC', '6S', '9C', '7H'} won by pair
+(2) {'3S', 'TD', 'JD', '9H', 'TS'} won by pair
+(2) {'TC', 'TD', 'QC', 'JD', 'TS'} won by three
+(1) {'AD', '4C', 'QS', 'AC', 'QD'} won by 2 pair
+(2) {'AD', 'AS', 'KC', '8D', '9C'} won by pair
+(2) {'7S', '5S', '6S', 'AH', '8C'} won by high card A
+(2) {'JH', 'AS', 'KH', 'JD', '6S'} won by pair
+(2) {'JH', '2D', 'AC', 'QD', 'JS'} won by pair
+(2) {'3S', '6C', 'JC', '6H', '3D'} won by 2 pair
+(1) {'3S', 'KD', 'KC', 'QC', 'JC'} won by pair
+(1) {'KD', 'AS', 'JD', '8H', '3D'} won by high card A
