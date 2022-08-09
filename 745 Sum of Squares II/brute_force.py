@@ -17,5 +17,4 @@ def S(N):
     return ans
 
 
-
-# print(f'ans is {S(10**14)}')
+print(f'ans is {S(10**14)}')
